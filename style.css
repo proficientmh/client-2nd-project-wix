@@ -75,11 +75,12 @@ Header-logo
 */
 
 .all-sec-part {
-    background-image: url(image/main-bg.webp);
+    background-image: url(image/main-photo.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
     overflow: hidden;
+    background-position: center;
 }
 
 .fluid-c {
